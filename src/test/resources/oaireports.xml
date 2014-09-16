@@ -34,7 +34,7 @@
         <property name="prefix" value="premis-full-v2" />
         <property name="schemaUrl" value="http://www.loc.gov/standards/premis/v2/premis.xsd" />
         <property name="namespace" value="http://www.loc.gov/standards/premis/v2/full/" />
-        <property name="propertyName" value="http://fedora.info/definitions/v4/config#hasPremisEventRRecord" />
+        <property name="propertyName" value="http://fedora.info/definitions/v4/config#hasPremisEventRecord" />
     </bean>
 
 </beans>

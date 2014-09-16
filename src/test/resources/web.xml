@@ -9,7 +9,7 @@
 
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>classpath:repo.xml, classpath:rest.xml, classpath:eventing.xml</param-value>
+        <param-value>classpath:repo.xml, classpath:rest.xml, classpath:eventing.xml, classpath:oaireports.xml</param-value>
     </context-param>
 
 
